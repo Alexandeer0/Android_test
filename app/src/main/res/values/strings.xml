@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ebanina</string>
+    <string name="mat">materials</string>
+    <string name="rec">recipes</string>
+    <string name="ord">orders</string>
+    <string name="add">add</string>
+    <string name="del">delete</string>
+    <string name="rest">restock</string>
+</resources>
